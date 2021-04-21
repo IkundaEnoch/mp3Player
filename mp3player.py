@@ -23,4 +23,3 @@ while mixer.music.get_busy():
     
     
 
-# TODO: please god make it stop
